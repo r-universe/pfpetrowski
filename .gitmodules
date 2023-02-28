@@ -8,3 +8,8 @@
 	url = https://github.com/pfpetrowski/ohtadstats
 	shallow = true
 	registered = true
+[submodule "rsnell"]
+	path = rsnell
+	url = https://github.com/pfpetrowski/rsnell
+	shallow = true
+	registered = true

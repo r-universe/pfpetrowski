@@ -2,5 +2,9 @@
   {
     "package": "ohtadstats",
     "oncran": true
+  },
+  {
+    "package": "rsnell",
+    "oncran": true
   }
 ]
