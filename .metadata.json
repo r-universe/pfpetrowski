@@ -1,10 +1,10 @@
 [
   {
-    "package": "rsnell",
+    "package": "ohtadstats",
     "oncran": true
   },
   {
-    "package": "ohtadstats",
+    "package": "rsnell",
     "oncran": true
   }
 ]
